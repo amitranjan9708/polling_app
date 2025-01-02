@@ -35,8 +35,8 @@ Make sure you have the following installed:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/saran-mani/intervue-poll-frontend.git
-   cd intervue-poll-frontend
+   git clone https://github.com/amitranjan9708/polling_app/tree/main/intervue-poll-frontend-main
+   cd intervue-poll-frontend-main
    ```
 
 2. Install dependencies:
