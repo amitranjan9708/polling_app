@@ -23,8 +23,8 @@ Make sure you have the following installed:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/saran-mani/intervue-poll-backend.git
-   cd intervue-poll-backend
+   git clone https://github.com/amitranjan9708/polling_app/blob/main/intervue-poll-backend-main
+   cd intervue-poll-backend-main
    ```
 
 2. Install dependencies:
