@@ -18,7 +18,7 @@ app.use(express.json());
 const port = process.env.PORT || 3000;
 
 const DB =
-   process.env.MONGO_URL;
+   "mongodb+srv://amitranjan9708195932:amit9799@cluster0.uecxgqj.mongodb.net/polling?retryWrites=true&w=majority";
     
 
 mongoose
